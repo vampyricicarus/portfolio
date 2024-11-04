@@ -1,0 +1,1 @@
+Each file and its respective css file are named the same to make it easier to tell which file goes where. I use code like font-family and color to change the appearance of the text in the html files. There's also a @keystrokes bit that adds an animation to some text.
