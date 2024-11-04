@@ -1,0 +1,26 @@
+@keyframes rotate {
+    0% {
+        transform: rotate(0deg); 
+    }
+    100% {
+        transform: rotate(360deg); 
+    }
+}
+
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:crimson;
+    animation: rotate 2s linear infinite;
+}
+
+p {
+    background: linear-gradient(90deg, #ff007f, #00bfff)
+}
+
+address {
+    font-weight: bolder;
+}
+
+address:hover {
+    font-size: larger;
+}

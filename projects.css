@@ -1,0 +1,14 @@
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+img {
+    height: 100%;
+    width:fit-content;
+    border-radius: 10px;
+}
+
+p {
+    font-family:'Courier New', Courier, monospace;
+    background-color: aqua;
+}
